@@ -4,7 +4,7 @@
 
 This repository contains the solution of the problem provided by Data Sciece Group (DSG) of IIT Roorkee.
 
-## File info 
+## File Info 
  
  The repository has One DataSet folder which contains the test and train data, and four other files.
 
